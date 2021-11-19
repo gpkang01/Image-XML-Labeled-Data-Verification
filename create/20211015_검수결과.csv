@@ -1,0 +1,63 @@
+No.,폴더,이미지,객체,라벨링,검수 결과,반려 사유
+1,C:/Users/GP Kang/Desktop/workspace/no34/Test_10cut,구름빵_1_112_2P_3560.jpg,홍비-1,Bounding Box,통과,
+2,C:/Users/GP Kang/Desktop/workspace/no34/Test_10cut,구름빵_1_112_2P_3560.jpg,홍비-1,Polygon,통과,
+3,C:/Users/GP Kang/Desktop/workspace/no34/Test_10cut,구름빵_1_112_2P_3560.jpg,홍시-1,Bounding Box,통과,
+4,C:/Users/GP Kang/Desktop/workspace/no34/Test_10cut,구름빵_1_112_2P_3560.jpg,홍시-1,Polygon,통과,
+5,C:/Users/GP Kang/Desktop/workspace/no34/Test_10cut,구름빵_1_112_2P_3563.jpg,홍비-1,Bounding Box,통과,
+6,C:/Users/GP Kang/Desktop/workspace/no34/Test_10cut,구름빵_1_112_2P_3563.jpg,홍비-1,Polygon,통과,
+7,C:/Users/GP Kang/Desktop/workspace/no34/Test_10cut,구름빵_1_112_2P_3563.jpg,홍시-1,Bounding Box,통과,
+8,C:/Users/GP Kang/Desktop/workspace/no34/Test_10cut,구름빵_1_112_2P_3563.jpg,홍시-1,Polygon,통과,
+9,C:/Users/GP Kang/Desktop/workspace/no34/Test_10cut,구름빵_1_112_2P_3584.jpg,홍비-1,Bounding Box,통과,
+10,C:/Users/GP Kang/Desktop/workspace/no34/Test_10cut,구름빵_1_112_2P_3584.jpg,홍비-1,Polygon,반려,Polygon 작업 안됨(미태깅)
+11,C:/Users/GP Kang/Desktop/workspace/no34/Test_10cut,구름빵_1_112_2P_3584.jpg,홍시-1,Bounding Box,통과,
+12,C:/Users/GP Kang/Desktop/workspace/no34/Test_10cut,구름빵_1_112_2P_3584.jpg,홍시-1,Polygon,반려,Polygon 작업 안됨(미태깅)
+13,C:/Users/GP Kang/Desktop/workspace/no34/Test_10cut,구름빵_1_112_2P_3588.jpg,양아줌마-1,Bounding Box,통과,
+14,C:/Users/GP Kang/Desktop/workspace/no34/Test_10cut,구름빵_1_112_2P_3588.jpg,양아줌마-1,Polygon,반려,Polygon 작업 안됨(미태깅)
+15,C:/Users/GP Kang/Desktop/workspace/no34/Test_10cut,구름빵_1_112_2P_3588.jpg,엄마-1,Bounding Box,반려,Bounding Box 작업 안됨(미태깅)
+16,C:/Users/GP Kang/Desktop/workspace/no34/Test_10cut,구름빵_1_112_2P_3588.jpg,엄마-1,Polygon,통과,
+17,C:/Users/GP Kang/Desktop/workspace/no34/Test_10cut,구름빵_1_112_2P_3596.jpg,홍비-1,Bounding Box,반려,Bounding Box 작업 안됨(미태깅)
+18,C:/Users/GP Kang/Desktop/workspace/no34/Test_10cut,구름빵_1_112_2P_3596.jpg,홍비-1,Polygon,통과,
+19,C:/Users/GP Kang/Desktop/workspace/no34/Test_10cut,구름빵_1_112_2P_3596.jpg,홍비-2,Bounding Box,반려,Bounding Box 작업 안됨(미태깅)
+20,C:/Users/GP Kang/Desktop/workspace/no34/Test_10cut,구름빵_1_112_2P_3596.jpg,홍비-2,Polygon,반려,Polygon 캐릭터명 오류(오태깅)
+21,C:/Users/GP Kang/Desktop/workspace/no34/Test_10cut,구름빵_1_112_2P_3635.jpg,양아줌마-1,Bounding Box,통과,
+22,C:/Users/GP Kang/Desktop/workspace/no34/Test_10cut,구름빵_1_112_2P_3635.jpg,양아줌마-1,Polygon,통과,
+23,C:/Users/GP Kang/Desktop/workspace/no34/Test_10cut,구름빵_1_112_2P_3635.jpg,홍비-1,Bounding Box,통과,
+24,C:/Users/GP Kang/Desktop/workspace/no34/Test_10cut,구름빵_1_112_2P_3635.jpg,홍비-1,Polygon,통과,
+25,C:/Users/GP Kang/Desktop/workspace/no34/Test_10cut,구름빵_1_112_2P_3635.jpg,홍시-1,Bounding Box,통과,
+26,C:/Users/GP Kang/Desktop/workspace/no34/Test_10cut,구름빵_1_112_2P_3635.jpg,홍시-1,Polygon,통과,
+27,C:/Users/GP Kang/Desktop/workspace/no34/Test_10cut,구름빵_1_112_2P_3638.jpg,양아줌마-1,Bounding Box,통과,
+28,C:/Users/GP Kang/Desktop/workspace/no34/Test_10cut,구름빵_1_112_2P_3638.jpg,양아줌마-1,Polygon,반려,Polygon 작업 안됨(미태깅)
+29,C:/Users/GP Kang/Desktop/workspace/no34/Test_10cut,구름빵_1_112_2P_3638.jpg,양아줌마-2,Bounding Box,반려,Bounding Box 캐릭터명 오류(오태깅)
+30,C:/Users/GP Kang/Desktop/workspace/no34/Test_10cut,구름빵_1_112_2P_3638.jpg,양아줌마-2,Polygon,반려,Polygon 작업 안됨(미태깅)
+31,C:/Users/GP Kang/Desktop/workspace/no34/Test_10cut,구름빵_1_112_2P_3638.jpg,홍시-1,Bounding Box,통과,
+32,C:/Users/GP Kang/Desktop/workspace/no34/Test_10cut,구름빵_1_112_2P_3638.jpg,홍시-1,Polygon,반려,Polygon 작업 안됨(미태깅)
+33,C:/Users/GP Kang/Desktop/workspace/no34/Test_10cut,구름빵_1_112_2P_3641.jpg,양아줌마-1,Bounding Box,통과,
+34,C:/Users/GP Kang/Desktop/workspace/no34/Test_10cut,구름빵_1_112_2P_3641.jpg,양아줌마-1,Polygon,반려,Polygon 감정명 오류(오태깅)
+35,C:/Users/GP Kang/Desktop/workspace/no34/Test_10cut,구름빵_1_112_2P_3641.jpg,홍비-1,Bounding Box,통과,
+36,C:/Users/GP Kang/Desktop/workspace/no34/Test_10cut,구름빵_1_112_2P_3641.jpg,홍비-1,Polygon,반려,Polygon 감정명 오류(오태깅)
+37,C:/Users/GP Kang/Desktop/workspace/no34/Test_10cut,구름빵_1_112_2P_3641.jpg,홍시-1,Bounding Box,통과,
+38,C:/Users/GP Kang/Desktop/workspace/no34/Test_10cut,구름빵_1_112_2P_3641.jpg,홍시-1,Polygon,반려,Polygon 감정명 오류(오태깅)
+39,C:/Users/GP Kang/Desktop/workspace/no34/Test_10cut,구름빵_1_112_2P_3651.jpg,양아줌마-1,Bounding Box,반려,Bounding Box 작업 안됨(미태깅)
+40,C:/Users/GP Kang/Desktop/workspace/no34/Test_10cut,구름빵_1_112_2P_3651.jpg,양아줌마-1,Polygon,반려,잘못된 Polygon 작업(오태깅)
+41,C:/Users/GP Kang/Desktop/workspace/no34/Test_10cut,구름빵_1_112_2P_3661.jpg,,Bounding Box,반려,XML에 이미지 정보 누락
+42,C:/Users/GP Kang/Desktop/workspace/no34/Test_10cut,구름빵_1_112_2P_3661.jpg,,Polygon,반려,XML에 이미지 정보 누락
+,"> 전체 이미지 10 건 중 반려 이미지 7 건, 통과 이미지 3 건"
+,> 전체 객체 20 건 중 반려 객체 13 건
+,"> 전체 반려 객체 13 건 중 Bounding Box 반려 객체 5 건, Polygon 반려 객체 11 건, Bounding Box/Polygon 반려 객체 3 건"
+,"> 전체 반려 18 건 중
+   ""이미지 관련 XML 파일 누락"" 0 건, ""XML에 이미지 정보 누락"" 2 건 외
+   ""Bounding Box"" 반려 5 건, ""Polygon"" 반려 11 건
+   ""양아줌마-1"" 관련 Bounding Box 반려 1 건   ""양아줌마-2"" 관련 Bounding Box 반려 1 건   ""엄마-1"" 관련 Bounding Box 반려 1 건
+   ""홍비-1"" 관련 Bounding Box 반려 1 건   ""홍비-2"" 관련 Bounding Box 반려 1 건
+   ""양아줌마-1"" 관련 Polygon 반려 4 건   ""양아줌마-2"" 관련 Polygon 반려 1 건   ""홍비-1"" 관련 Polygon 반려 2 건
+   ""홍비-2"" 관련 Polygon 반려 1 건   ""홍시-1"" 관련 Polygon 반려 3 건"
+,"> 전체 ""Bounding Box 캐릭터명 오류(오태깅)"" 1 건 중   ""양아줌마-2"" 관련 반려 1 건  "
+,"> 전체 ""Bounding Box 감정명 오류(오태깅)"" 0 건 중   객체별 반려 없음"
+,"> 전체 ""잘못된 Bounding Box 작업(오태깅)"" 0 건 중   객체별 반려 없음"
+,"> 전체 ""불필요한 Bounding Box 작업(과태깅)"" 0 건 중   객체별 반려 없음"
+,"> 전체 ""Bounding Box 작업 안됨(미태깅)"" 4 건 중   ""엄마-1"" 관련 반려 1 건  ""홍비-1"" 관련 반려 1 건  ""홍비-2"" 관련 반려 1 건  ""양아줌마-1"" 관련 반려 1 건  "
+,"> 전체 ""Polygon 캐릭터명 오류(오태깅)"" 1 건 중   ""홍비-2"" 관련 반려 1 건  "
+,"> 전체 ""Polygon 감정명 오류(오태깅)"" 3 건 중   ""양아줌마-1"" 관련 반려 1 건  ""홍비-1"" 관련 반려 1 건  ""홍시-1"" 관련 반려 1 건  "
+,"> 전체 ""잘못된 Polygon 작업(오태깅)"" 1 건 중   ""양아줌마-1"" 관련 반려 1 건  "
+,"> 전체 ""불필요한 Polygon 작업(과태깅)"" 0 건 중   객체별 반려 없음"
+,"> 전체 ""Polygon 작업 안됨(미태깅)"" 6 건 중   ""홍비-1"" 관련 반려 1 건  ""홍시-1"" 관련 반려 2 건  ""양아줌마-1"" 관련 반려 2 건  ""양아줌마-2"" 관련 반려 1 건  "
